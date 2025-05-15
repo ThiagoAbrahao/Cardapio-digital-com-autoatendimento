@@ -9,7 +9,7 @@ BRASÍLIA-DF 15/05/2025
 **DESCRIÇÃO:** 
 
   Neste  trabalho  foi  desenvolvido  um  código,  em  python,  para  um autoatendimento em um café com o nome “Coffee Shops Tia Rosa”, contando com entradas e saídas para o usuário, a fim de facilitar o atendimento tanto dos clientes, quanto dos funcionários. Ele conta com a formação de uma comanda de controle mandada para a central, nela é mostrado o nome do cliente, a mesa onde ele se encontra, os pratos e bebidas, a quantidade selecionada, o que foi pedido mais a soma total de todos os itens selecionados e uma mensagem de pontos de fidelidade, tudo isso apresentando linhas de códigos para executar cada uma dessas ações no decorrer do programa.
-    Programa ótimo para ser implementado em cafés, bares e restaurantes, deixando os processos de atendimento, escolha do produto, agilidade e faciliade tanto para empregados, quanto para clientes, mostrando um ambiente atualizado e dinâmico.
+    Programa ótimo para ser implementado em cafés, bares e restaurantes, deixando os processos de atendimento, escolha do produto, levando agilidade e faciliade tanto para empregados, quanto para clientes, mostrando um ambiente atualizado e dinâmico.
   Neste código foram colocados elementos aprendidos nas aulas, tais como dicionário, listas, loops, dentre outros, além de lógica de programação, sempre mantendo a ordem e a organização, sendo usados arrays, dicionários, loops, listas e condicionais, além de comentários no decorrer do código,  para uma maior facilidade de visualização e entendimento, tanto do cliente, quanto de outros desenvolvedores . 
 
 
