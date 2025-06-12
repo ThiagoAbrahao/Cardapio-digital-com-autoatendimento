@@ -32,7 +32,7 @@ BRASÍLIA-DF 15/05/2025
 **Passo 7:** Em seguida, o usuário será redirecionado novamente para o painel onde ele poderá acrescentar novos itens ou finalizar o pedido, caso queira. 
 
 **Passo 8:** Após selecionar “finalizar pedido”, será mostrado o resumo do pedido, mostrando o que foi selecionado, a quantidade e o valor total. Também será mostrado  um  sistema  de  fidelização  de  clientes,  com  um  valor  mínimo  em compras que, sendo ultrapassado, gerará pontos a serem trocados por refeições grátis quando todos os pontos necessários forem alcançados. 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -48,6 +48,22 @@ DESCRIPTION:
 This work developed a code, in python, for self-service in a café called “Cafeterias Tia Rosa”, with inputs and outputs for the user, in order to facilitate the service of both customers and employees. It involves the formation of a control command sent to the central office, which shows the customer's name, the table where they are seated, the dishes and drinks, the quantity selected, what was ordered plus the total sum of all selected items and a message of loyalty points, all of this presenting lines of code to execute each of these actions during the program. An excellent program to be implemented in cafés, bars and restaurants, making the service processes, product selection, providing agility and ease for both employees and customers, showing an updated and dynamic environment. This code presents elements learned in class, such as dictionaries, lists, loops, among others, as well as programming logic, always maintaining order and organization, using arrays, dictionaries, loops, lists and conditionals, as well as comments throughout the code, for greater ease of viewing and understanding, both for the client and for other developments.
 
 OPERATION:
+
+Step 1: The program starts, showing the customer an initial message. This message asks for permission to create a quick registration, in order to maintain an organization for creating the order.
+
+Step 2: After confirmation, the customer will be asked for their name, which will be put on the order form, to identify the order and to whom it will be sent.
+
+Step 3: Immediately after, the customer will be asked for the table number, to identify which table the order is from and where it should go.
+
+Step 4: Next, the full menu will be shown, with all the items in order by class, with names, prices and their ingredients. Below that, there will be a box of actions so that the customer can browse the menu, choose what they want and also be able to complete the order.
+
+Step 5: The customer must then choose a number. After this choice, the part of the menu that interests them will open. They will be asked to choose the number of the item they want to order.
+
+Step 6: After selecting the item, a question will be displayed asking the user to choose the quantity to be ordered, for example: 1 (one) espresso and 4 (four) filtered coffees.
+
+Step 7: The user will then be redirected back to the panel where they can add new items or complete the order, if desired.
+
+Step 8: After selecting “complete order”, the order summary will be displayed, showing what was selected, the quantity and the total amount. A customer loyalty system will also be displayed, with a minimum purchase amount that, if exceeded, will generate points to be exchanged for free meals when all the necessary points are reached.
 
 
 
