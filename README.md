@@ -35,3 +35,19 @@ BRASÍLIA-DF 15/05/2025
 
 
 
+
+
+THIAGO DOMINGOS ABRAHÃO DE LIMA
+
+SYSTEM DEVELOPMENT IN PYTHON
+
+BRASÍLIA-DF 05/15/2025
+
+DESCRIPTION:
+
+This work developed a code, in python, for self-service in a café called “Cafeterias Tia Rosa”, with inputs and outputs for the user, in order to facilitate the service of both customers and employees. It involves the formation of a control command sent to the central office, which shows the customer's name, the table where they are seated, the dishes and drinks, the quantity selected, what was ordered plus the total sum of all selected items and a message of loyalty points, all of this presenting lines of code to execute each of these actions during the program. An excellent program to be implemented in cafés, bars and restaurants, making the service processes, product selection, providing agility and ease for both employees and customers, showing an updated and dynamic environment. This code presents elements learned in class, such as dictionaries, lists, loops, among others, as well as programming logic, always maintaining order and organization, using arrays, dictionaries, loops, lists and conditionals, as well as comments throughout the code, for greater ease of viewing and understanding, both for the client and for other developments.
+
+OPERATION:
+
+
+
