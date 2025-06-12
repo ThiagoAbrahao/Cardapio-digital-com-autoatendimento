@@ -32,7 +32,7 @@ BRASÍLIA-DF 15/05/2025
 **Passo 7:** Em seguida, o usuário será redirecionado novamente para o painel onde ele poderá acrescentar novos itens ou finalizar o pedido, caso queira. 
 
 **Passo 8:** Após selecionar “finalizar pedido”, será mostrado o resumo do pedido, mostrando o que foi selecionado, a quantidade e o valor total. Também será mostrado  um  sistema  de  fidelização  de  clientes,  com  um  valor  mínimo  em compras que, sendo ultrapassado, gerará pontos a serem trocados por refeições grátis quando todos os pontos necessários forem alcançados. 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 
