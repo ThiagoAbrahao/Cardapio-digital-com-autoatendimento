@@ -1,5 +1,3 @@
-THIAGO DOMINGOS ABRAHÃO DE LIMA 
-
 #DESENVOLVIMENTO DE SISTEMA EM PYTHON
 
 BRASÍLIA-DF 15/05/2025 
@@ -89,6 +87,7 @@ Step 6: After selecting the item, a question will be displayed asking the user t
 Step 7: The user will then be redirected back to the panel where they can add new items or complete the order, if desired.
 
 Step 8: After selecting “complete order”, the order summary will be displayed, showing what was selected, the quantity and the total amount. A customer loyalty system will also be displayed, with a minimum purchase amount that, if exceeded, will generate points to be exchanged for free meals when all the necessary points are reached.
+
 
 
 
