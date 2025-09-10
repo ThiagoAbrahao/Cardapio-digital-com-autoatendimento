@@ -1,4 +1,4 @@
-#Desenvolvimento de sistema em python
+# Desenvolvimento de sistema em python
 
 BRASÍLIA-DF 15/05/2025 
 
@@ -7,14 +7,16 @@ BRASÍLIA-DF 15/05/2025
 1. [DESCRIÇÃO](#DESCRIÇÃO)
 2. [FUNCIONAMENTO](#FUNCIONAMENTO)
 
-##DESCRIÇÃO: 
+## DESCRIÇÃO: 
 
   Neste  trabalho  foi  desenvolvido  um  código,  em  python,  para  um autoatendimento em um café com o nome “Coffee Shops Tia Rosa”, contando com entradas e saídas para o usuário, a fim de facilitar o atendimento tanto dos clientes, quanto dos funcionários. Ele conta com a formação de uma comanda de controle mandada para a central, nela é mostrado o nome do cliente, a mesa onde ele se encontra, os pratos e bebidas, a quantidade selecionada, o que foi pedido mais a soma total de todos os itens selecionados e uma mensagem de pontos de fidelidade, tudo isso apresentando linhas de códigos para executar cada uma dessas ações no decorrer do programa.
-    Programa ótimo para ser implementado em cafés, bares e restaurantes, deixando os processos de atendimento e a escolha dos produtos muito mais facilitada, levando agilidade e faciliade tanto para empregados, quanto para clientes, mostrando um ambiente atualizado e dinâmico.
+    
+  Programa ótimo para ser implementado em cafés, bares e restaurantes, deixando os processos de atendimento e a escolha dos produtos muito mais facilitada, levando agilidade e faciliade tanto para empregados, quanto para clientes, mostrando um ambiente atualizado e dinâmico.
+  
   Neste código foram colocados elementos aprendidos nas aulas, tais como dicionários, arrays, listas, condicionais, loops, dentre outros, além de lógica de programação, sempre mantendo a ordem e a organização, além de comentários no decorrer do código, para uma maior facilidade de visualização e entendimento, tanto do cliente, quanto de outros desenvolvedores . 
 
 
-##FUNCIONAMENTO: 
+## FUNCIONAMENTO: 
 
 **Passo 1:** O programa é iniciado, mostrando uma primeira mensagem para o cliente, essa mensagem pede permissão para a criação de um cadastro rápido, a fim de manter uma organização para a criação do pedido. 
 <div align = "center">
@@ -87,6 +89,7 @@ Step 6: After selecting the item, a question will be displayed asking the user t
 Step 7: The user will then be redirected back to the panel where they can add new items or complete the order, if desired.
 
 Step 8: After selecting “complete order”, the order summary will be displayed, showing what was selected, the quantity and the total amount. A customer loyalty system will also be displayed, with a minimum purchase amount that, if exceeded, will generate points to be exchanged for free meals when all the necessary points are reached.
+
 
 
 
