@@ -2,7 +2,7 @@
 
 BRASÍLIA-DF 15/05/2025 
 
-##Índice:
+## Índice:
 
 1. [DESCRIÇÃO](#DESCRIÇÃO)
 2. [FUNCIONAMENTO](#FUNCIONAMENTO)
@@ -60,35 +60,64 @@ BRASÍLIA-DF 15/05/2025
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-THIAGO DOMINGOS ABRAHÃO DE LIMA
-
-SYSTEM DEVELOPMENT IN PYTHON
+# System development in python
 
 BRASÍLIA-DF 05/15/2025
 
-DESCRIPTION:
+## Index:
 
-This work developed a code, in python, for self-service in a café called “Cafeterias Tia Rosa”, with inputs and outputs for the user, in order to facilitate the service of both customers and employees. It involves the formation of a control command sent to the central office, which shows the customer's name, the table where they are seated, the dishes and drinks, the quantity selected, what was ordered plus the total sum of all selected items and a message of loyalty points, all of this presenting lines of code to execute each of these actions during the program. An excellent program to be implemented in cafés, bars and restaurants, making the service processes, product selection, providing agility and ease for both employees and customers, showing an updated and dynamic environment. This code presents elements learned in class, such as dictionaries, lists, loops, among others, as well as programming logic, always maintaining order and organization, using arrays, dictionaries, loops, lists and conditionals, as well as comments throughout the code, for greater ease of viewing and understanding, both for the client and for other developments.
+1. [DESCRIPTION](#DESCRIPTION)
+2. [OPERATION](#OPERATION)
 
-OPERATION:
+## DESCRIPTION:
+
+This project developed Python code for a self-service system at a café called "Coffee Shops Tia Rosa," featuring user inputs and outputs to facilitate service for both customers and employees. It involves creating a control command sent to the control center. It displays the customer's name, their table, the dishes and drinks, the quantity selected, the order, the total of all items selected, and a loyalty points message. All of this includes lines of code to execute each of these actions throughout the program.
+
+This program is ideal for implementation in cafés, bars, and restaurants, streamlining service processes and product selection, bringing agility and convenience to both employees and customers, and creating an up-to-date and dynamic environment.
+
+Elements learned in classes were included in this code, such as dictionaries, arrays, lists, conditionals, loops, among others, in addition to programming logic, always maintaining order and organization, in addition to comments throughout the code, for greater ease of viewing and understanding, both for the client and other developers.
+
+## OPERATION:
 
 Step 1: The program starts, showing the customer an initial message. This message asks for permission to create a quick registration, in order to maintain an organization for creating the order.
-
+<div align = "center">
+  <img width="779" height="157" alt="11" src="https://github.com/user-attachments/assets/0099b925-4752-4c94-bd3f-5a030f00dbcc" />
+  </div>
+  
 Step 2: After confirmation, the customer will be asked for their name, which will be put on the order form, to identify the order and to whom it will be sent.
-
+<div align = "center">
+  <img width="786" height="154" alt="22" src="https://github.com/user-attachments/assets/fe2b90f0-2534-4617-8994-e1c5acf5623c" />
+  </div>
+  
 Step 3: Immediately after, the customer will be asked for the table number, to identify which table the order is from and where it should go.
-
+<div align = "center">
+  <img width="766" height="133" alt="33" src="https://github.com/user-attachments/assets/4926532d-1bea-4ad9-81f7-ecd032347bc4" />
+  </div>
+  
 Step 4: Next, the full menu will be shown, with all the items in order by class, with names, prices and their ingredients. Below that, there will be a box of actions so that the customer can browse the menu, choose what they want and also be able to complete the order.
+<div align = "center">
+  <img width="755" height="489" alt="44" src="https://github.com/user-attachments/assets/44dd7b66-e796-489d-99a2-cc21dcfc7849" />
+  </div>
 
 Step 5: The customer must then choose a number. After this choice, the part of the menu that interests them will open. They will be asked to choose the number of the item they want to order.
+<div align = "center">
+  <img width="724" height="325" alt="55" src="https://github.com/user-attachments/assets/b365bd6f-bf6e-4c30-99ef-1eef2fe3ffca" />
+  </div>
 
 Step 6: After selecting the item, a question will be displayed asking the user to choose the quantity to be ordered, for example: 1 (one) espresso and 4 (four) filtered coffees.
-
+<div align = "center">
+  <img width="726" height="319" alt="66" src="https://github.com/user-attachments/assets/93f76c25-5015-4028-832c-f2fab05c1c64" />
+  </div>
+  
 Step 7: The user will then be redirected back to the panel where they can add new items or complete the order, if desired.
-
+<div align = "center">
+  <img width="726" height="301" alt="77" src="https://github.com/user-attachments/assets/c43f3b7e-11e5-4518-9cdb-f6cefaec4c6e" />
+  </div>
+  
 Step 8: After selecting “complete order”, the order summary will be displayed, showing what was selected, the quantity and the total amount. A customer loyalty system will also be displayed, with a minimum purchase amount that, if exceeded, will generate points to be exchanged for free meals when all the necessary points are reached.
+<div align = "center">
+  <img width="727" height="168" alt="88" src="https://github.com/user-attachments/assets/95fad418-32df-43e8-ad9f-ac1727984f7e" />
+  </div>
 
 
 
